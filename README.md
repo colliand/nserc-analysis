@@ -14,13 +14,11 @@ Graphs huge subsets of the data so we can see overall trends and funding distrib
 Well formatted (unlike the nserc-*years* files) and generalized. A good basis from which to make more specific files.
 
 
-ExploreByInstitution-1508
-
+#### ExploreByInstitution-1508
 An instance of the SelectionsTemplate. Explores comittee 1508 (Mathematics and Statistics) and allows the user to select the institution.
 
 
-ExploreByCommittee
-
+#### ExploreByCommittee
 An instance of the SelectionsTemplate. Lets the user select for the committee.
 
 
