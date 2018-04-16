@@ -1,0 +1,29 @@
+#+LAST_MOBILE_CHANGE: 2018-02-19 19:45:24
+#+SETUPFILE: ~/org/theme-bigblow.setup
+
+
+** NSERC Open Data Exploration
+*** About
+
+   Canada's [[http://open.canada.ca/en][Open Government Portal]] includes [[http://open.canada.ca/data/en/dataset/c1b0f627-8c29-427c-ab73-33968ad9176e][NSERC Awards Data]] from 1995 through 2016. The awards data (in .csv format) were copied to an [[http://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html][Amazon Web Services S3 bucket]].
+
+   This site explores the NSERC Awards Data with the goal of helping Canada to achieve the best outcomes for research and training of future researchers.
+
+
+
+*** Tools and Data to Support Collaborations
+
+   | Resource URL                      | Host           | Auth   |
+|-----------------------------------+----------------+--------|
+| [[https://github.com/colliand/nserc-analysis][Source code (repository)]]          | GitHub         | GitHub |
+| [[https://pims.syzygy.ca/jupyter/user-redirect/interact?account=colliand&repo=nserc-analysis&branch=master&path=Explore-NSERC-Open-Data.ipynb][Explore with Jupyter (persistent)]] | [[https://pims.syzygy.ca][pims.syzygy.ca]] | Google |
+| [[https://mybinder.org/v2/gh/colliand/nserc-analysis/master][Explore with Jupyter (ephemeral)]]  | [[https://mybinder.org][mybinder.org]]   | Google |
+
+** Discovery
+
+** Engage
+
+** CRC
+
+** CRD
+   
